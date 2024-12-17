@@ -16,5 +16,7 @@ Process
 Model Verification
 
 1.) Linearity: Residuals satisfy the linearity assumption.
+
 2.) Constant Variance: Residuals show consistent spread.
+
 3.) Normality: QQ-plot indicates normality of residuals.
