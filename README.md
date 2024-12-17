@@ -1,7 +1,9 @@
 GPA Prediction Model
 
+
 Goal: 
 To build a predictive model examining factors influencing GPA. The final model includes six predictors: Drinks, CognitionZScore, StressScore, AnxietyScore, ClassesMissed, AverageSleep
+
 
 Process
 
@@ -12,6 +14,7 @@ Process
 3.) Model Building: Removed DASScore due to multicollinearity. Conducted forward/backward selection and used Mallow's Cp.
 
 4.) Model Selection: The model with the lowest Mallow’s Cp aligns with forward/backward selection results.
+
 
 Model Verification
 
